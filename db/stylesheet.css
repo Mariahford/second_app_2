@@ -1,0 +1,18 @@
+
+body {
+   background-color: rgb(255,255,255);
+   color: rgb(149,44,152);
+   width: 400px;
+   font-size: 30pt;
+   line-height:2em;
+   word-spacing: 0.1em;
+}
+
+h1{
+        letter-spacing: -0.2em;
+        font-size: 65pt
+}
+        
+img{
+        width: 100%;
+}
